@@ -1,0 +1,5 @@
+{
+  "name": "codex-devcontainer-install",
+  "private": true,
+  "description": "Aikido repro - manifest only, no code"
+}
